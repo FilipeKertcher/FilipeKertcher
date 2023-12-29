@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 <h3 align="center">Passionate Software & Solution Architect from Brazil</h3>
 
-- 🔭 I’m currently working on **Able**
+- 🔭 I’m currently working on **Kojo**
 
 - 🌱 I’m currently learning **Microservices, Evolutionary Architecture**
 
